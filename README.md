@@ -6,10 +6,11 @@ That means no objects, no GC, no util libraries, etc.
 
 # Assumes
 
+ * You're running linux (that's what I'm using) but OS X should also work.
  * You have an MSP430 Launchpad board and microprocessor
- * You've downloaded and installed naken_asm
- * You've downloaded and installed java_grinder
- * You've downloaded and installed mspdebug
+ * You've downloaded and installed [naken_asm](https://www.mikekohn.net/micro/naken_asm.php)
+ * You've downloaded and installed [java_grinder](https://www.mikekohn.net/micro/java_grinder.php)
+ * You've downloaded and installed [mspdebug](http://dlbeer.co.nz/mspdebug/)
  * You you have some JDK installed on your host system
 
 # How to run
